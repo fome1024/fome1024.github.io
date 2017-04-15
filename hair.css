@@ -1,0 +1,38 @@
+/* Home Page*/
+
+li {
+    display: inline-block;}
+    
+
+.nav a {
+    text-decoration: none;
+    font-family: 'League Script', cursive;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+a:hover{
+    color: red;
+}
+
+.nav {
+    background-image: url("hairborder.jpg");
+    height: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: ;
+    
+}
+
+.nav ul {
+    text-align: right;
+}
+
+body {
+    width: 75%;
+    margin: auto;
+}    
+
+/*tell body to be width 960px-keeps it as a single size*/
